@@ -3,7 +3,7 @@
 ## Class project for Informatics 360 at the University of Washington
 
 
-![](https://drive.google.com/file/d/1t2WJMHEhNVG3W3TAbPXtoGmW_YJve8fs/view?usp=sharing)
+[GIF](https://drive.google.com/file/d/1t2WJMHEhNVG3W3TAbPXtoGmW_YJve8fs/view?usp=sharing)
 
 
 ### Front End and Back End Technologies
