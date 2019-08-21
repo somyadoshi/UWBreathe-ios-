@@ -6,10 +6,10 @@
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)\
 * [MapKit](https://developer.apple.com/documentation/mapkit/)\
 * [QGrid](https://github.com/Q-Mobile/QGrid/)\
-* [Swift](https://developer.apple.com/swift/)
+* [Swift](https://developer.apple.com/swift/)\
 
 ### Environment Installation
 * [XCode](https://developer.apple.com/xcode/)\
 * [Swift](https://developer.apple.com/swift/)\
-* [MacOS Catalina](https://www.apple.com/macos/catalina-preview/)
+* [MacOS Catalina](https://www.apple.com/macos/catalina-preview/)\
 
